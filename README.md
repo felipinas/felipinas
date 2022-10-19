@@ -1,6 +1,6 @@
 ## Olá, sou João Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" >
 
-Sou um desenvolvedor de software, atualmente trabalhando com desenvolvimento web na [**Salvus**](https://www.instagram.com/salvus.me/).
+Sou um Engenheiro de Software, atualmente trabalhando com desenvolvimento web na [**Neurotech**](https://www.neurotech.com.br/).
 
 #### Minhas ferramentas atuais
 🌎 Front-end Web com React  

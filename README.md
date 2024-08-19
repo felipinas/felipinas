@@ -1,6 +1,6 @@
 ## Hello, I'm João Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" >
 
-I'm a Software Engineer, currently working with web development at [**Neurotech**](https://www.neurotech.com.br/).
+I'm a Software Engineer, currently working with web development at [**Quave**](https://quave.dev/).
 
 #### My current tools
 🌎 Front-end Web with React  
